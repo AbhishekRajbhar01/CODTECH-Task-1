@@ -1,9 +1,9 @@
-**Name**: ABHISHEK RAJBHAR
-**Company**: CODTECH IT SOLUTIONS
-**ID**: CT08DS8048
-**Domain**: Digital Marketing
-**Duration**: 10 Sep 2024 to 10 Oct 2024
-**Mentor**: Neela Santosh Kumar
+ **Name**: ABHISHEK RAJBHAR
+ **Company**: CODTECH IT SOLUTIONS
+ **ID**: CT08DS8048
+ **Domain**: Digital Marketing
+ **Duration**: 10 Sep 2024 to 10 Oct 2024
+ **Mentor**: Neela Santosh Kumar
 
 # Project: Marketing Automation with Mailchimp
 
