@@ -1,4 +1,12 @@
-# Marketing Automation with Mailchimp
+## Personal Information
+- **Name**: ABHISHEK RAJBHAR
+- **Company**: CODTECH IT SOLUTIONS
+- **ID**: CT08DS8048
+- **Domain**: Digital Marketing
+- **Duration**: 10 Sep 2024 to 10 Oct 2024
+- **Mentor**: Neela Santosh Kumar
+
+# Project: Marketing Automation with Mailchimp
 
 ## Overview
 This guide provides step-by-step instructions for implementing marketing automation using Mailchimp. It covers the key features of Mailchimp for automating email marketing, audience segmentation, customer journeys, and tracking campaign performance.
