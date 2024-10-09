@@ -61,5 +61,5 @@ This guide provides step-by-step instructions for implementing marketing automat
 4. **Email 3**: One week later, follow-up with a discount code or offer.
 
 ## Conclusion
-Mailchimp simplifies marketing automation, allowing for better customer engagement through personalized emails, segmentation, and real-time analytics. Start with simple automations and scale up as you gain insights into audience behavior.
+Mailchimp simplifies marketing automation, allowing for better customer engagement through personalized emails, segmentation, and real-time analytics.
 
