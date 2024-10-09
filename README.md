@@ -1,4 +1,3 @@
-## Personal Information
 - **Name**: ABHISHEK RAJBHAR
 - **Company**: CODTECH IT SOLUTIONS
 - **ID**: CT08DS8048
